@@ -1,7 +1,9 @@
-.first-class {
-    background-color: red;
+.row div {
+    background-color: rgb(105, 101, 101);
+    border: 1px solid #fff;
+    padding: 10px;
 }
 
-.second-class {
-    background-color: blue;
+body {
+    color: #fff;
 }
